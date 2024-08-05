@@ -1,4 +1,4 @@
-3D camera movement with perspective projection done with only using 2D primitive figure rasterisers.
+3D camera movement with perspective projection done by only using 2D primitive figure rasterisers.
 
 ## Preview
 ![](Projection.gif)
